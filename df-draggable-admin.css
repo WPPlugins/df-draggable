@@ -1,0 +1,49 @@
+/**
+ * @package DF Draggable
+ * @version 1.13.2
+ * @url	http://wordpress.org/extend/plugins/df-draggable/
+**/
+
+#df_draggable_admin {
+    font-size:1.2em;
+    
+}
+#df_draggable_admin input[type="text"] {
+    width:200px !important;
+    padding:5px !important;
+}
+.df-admin-update-table {
+    width:600px !important;
+    margin:10px 0 10px 0 !important;
+}
+
+.df-admin-update-table-th {
+    padding:5px 10px 15px 5px !important;
+    text-align:left !important;
+    vertical-align: top;
+    width:260px;
+}
+
+.df-admin-update-table td {
+    padding:5px 5px 15px 5px !important;
+    text-align:left !important;
+    vertical-align: top;
+}
+
+.df-admin-errors {
+    border:1px solid red !important;
+    padding:10px !important;
+    font-size:1.1em !important;
+    font-weight:bold !important;
+    color:red !important;
+    width:400px !important;
+}
+
+.df-admin-success {
+    border:1px solid green !important;
+    padding:10px !important;
+    font-size:1.1em !important;
+    font-weight:bold !important;
+    color:green !important;
+    width:400px !important;
+}
